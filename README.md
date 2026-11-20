@@ -31,9 +31,9 @@ Optional extras, all off by default (see Settings): a rolling seven-day week, Is
 
 ## Install
 
-**With BRAT:** add `ibrahimalroudhan-cmyk/fc-apple-skin` in the BRAT plugin's "Add beta plugin" box.
+**With BRAT:** add `IbraAFK/fc-apple-skin` in the BRAT plugin's "Add beta plugin" box.
 
-**Manually:** download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/ibrahimalroudhan-cmyk/fc-apple-skin/releases/latest), put them in `<your vault>/.obsidian/plugins/fc-apple-skin/`, reload Obsidian and enable "Apple Skin for Full Calendar" under Settings → Community plugins.
+**Manually:** download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/IbraAFK/fc-apple-skin/releases/latest), put them in `<your vault>/.obsidian/plugins/fc-apple-skin/`, reload Obsidian and enable "Apple Skin for Full Calendar" under Settings → Community plugins.
 
 ## Settings
 
